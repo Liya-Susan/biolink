@@ -122,7 +122,7 @@ export default function Home() {
           <div
             className={`flex justify-center items-center w-[1100px] h-[1500px] rounded-[3rem] bg-black transition-all duration-500  ${
               expanded
-                ? "opacity-[95%] z-5 mt-[-900px] h-[2700px] w-[2000px]"
+                ? "opacity-[91%] z-5 mt-[-900px] h-[2700px] w-[2000px]"
                 : ""
             }`}
           >
